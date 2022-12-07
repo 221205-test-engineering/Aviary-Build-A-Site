@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T20:05:42.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aOU7E87VN77VzmDeCO2D" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T20:10:10.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BzdYOaEjl6IT7T7Hmejf" version="20.6.0" type="github">
   <diagram id="gDLePSw_vvTQ7s2qHtQx" name="Page-1">
     <mxGraphModel dx="2523" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -114,6 +114,30 @@
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-57" value="Detailed User Menu.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" vertex="1" parent="1">
           <mxGeometry x="790" y="-1060" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-58" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;entryX=1.004;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PCk0vXCQwNknum3uSaaK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="-900" as="sourcePoint" />
+            <mxPoint x="828.75" y="-861.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-61" value="Activity Sidebar. Shows log of recent activity with title, timestamp, and summary. May also perhaps feature local birdwatching events." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-930" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-62" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" edge="1" parent="1" target="PCk0vXCQwNknum3uSaaK-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-295" as="sourcePoint" />
+            <mxPoint x="110" y="-345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-64" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" edge="1" parent="1" target="PCk0vXCQwNknum3uSaaK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="-490" as="sourcePoint" />
+            <mxPoint y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-65" value="Quick menu, for the ornithologist in a hurry" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-540" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
