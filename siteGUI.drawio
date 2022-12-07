@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T19:55:40.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="os45WaUzlug-2kKWs91-" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T20:05:42.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aOU7E87VN77VzmDeCO2D" version="20.6.0" type="github">
   <diagram id="gDLePSw_vvTQ7s2qHtQx" name="Page-1">
-    <mxGraphModel dx="1673" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,25 +80,40 @@
           <mxGeometry x="410" y="-880" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-42" value="Activity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-550" width="110" height="110" as="geometry" />
+          <mxGeometry x="230" y="-390" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-43" value="Search a Bird" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="305" y="-550" width="110" height="110" as="geometry" />
+          <mxGeometry x="440" y="-550" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-44" value="Write a Journal Entry" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="170" y="-550" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PCk0vXCQwNknum3uSaaK-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-390" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PCk0vXCQwNknum3uSaaK-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=39;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="304" y="-390" width="110" height="110" as="geometry" />
+        <mxCell id="PCk0vXCQwNknum3uSaaK-46" value="Camera" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-550" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-47" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#9900ff&quot;&gt;&lt;i&gt;Premium&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 19px;&quot;&gt;Add entry to map&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-390" width="110" height="110" as="geometry" />
+          <mxGeometry x="380" y="-390" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PCk0vXCQwNknum3uSaaK-48" value="Report a Bug: We&#39;ll fix it eventually, we promise!" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#0800FF;align=left;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="158" y="-250" width="402" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-52" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#0800FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PCk0vXCQwNknum3uSaaK-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="-880" as="sourcePoint" />
+            <mxPoint x="200" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-55" value="Map Icon. Contains picture of bird, expands when clicked." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-920" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-56" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;entryX=1.044;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PCk0vXCQwNknum3uSaaK-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="-1000" as="sourcePoint" />
+            <mxPoint x="790" y="-1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PCk0vXCQwNknum3uSaaK-57" value="Detailed User Menu.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=#01001F;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1060" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
